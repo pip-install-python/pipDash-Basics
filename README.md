@@ -1,7 +1,7 @@
 # <img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /> pipDash-Basics <img width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" />
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-pBvv8mzLpj0k-RIbc2Nog?style=social)
-![Discord](https://img.shields.io/discord/1005131057512857682)
+![Discord](https://img.shields.io/discord/396334922522165248)
 ![GitHub followers](https://img.shields.io/github/followers/pip-install-python?style=social)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PipInstallPython?style=social)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
@@ -15,7 +15,7 @@ This is a base repo that offers a multi paged dash application boiler plate to s
 <img width="100%" height='400px' src="https://media.discordapp.net/attachments/419291925322006528/1053583911336280064/plotly_dash_tutorial_thumbnail.jpg?width=1816&height=935" alt="Tutorial Thumbnail" />
 
 ## Getting Started
-- [Tutorial Video]()
+- [Tutorial Video](https://youtu.be/YHx4DXEiqDs)
 
 ```git clone https://github.com/pip-install-python/pipDash-Basics.git```
 or Download Zip Directly
