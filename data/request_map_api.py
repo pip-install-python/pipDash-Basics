@@ -1,11 +1,13 @@
 import colorama
 import requests
 import pandas as pd
-import dash_trich_components as dtc
-import json
+from acii.pip_terminal_watermark import print_terminal_screen
 
 
 def request_map_data():
+
+    print_terminal_screen()
+
     df = 'This will be a dataframe'
 
     try:
@@ -77,3 +79,5 @@ def request_map_data():
 
 if __name__ == '__main__':
     data = request_map_data()
+
+    print(data)

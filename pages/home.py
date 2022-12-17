@@ -3,8 +3,6 @@ from dash import html, dcc
 import dash_mantine_components as dmc
 import dash_bootstrap_components as dbc
 from dash.dependencies import Output, Input, State
-import pydeck as pdk
-import pandas
 import dash_trich_components as dtc
 from templates.map_style.map_style_moonlight import request_map_style_moonlight
 from data.request_map_api import request_map_data
@@ -326,7 +324,7 @@ layout = html.Div([navbar,dmc.BackgroundImage(src=dash.get_asset_url('imgs/gif/c
 @dash.callback(Output('video-target', 'children'), [Input('video-dropdown', 'value')])
 def embed_iframe(value):
     videos = {
-        'Available Videos': 'pip-install-python-flask-intro',
+        'Available Videos': 'flask_dash_app_understanding_base_foundation',
         # 'video2': '5BAthiN0htc',
         # 'video3': 'e4ti2fCpXMI',
     }
