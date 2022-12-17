@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+lib/
+etc/
+share/
+bin/
+pyvenv.cfg
+mapbox_token.py

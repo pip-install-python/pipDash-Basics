@@ -1,0 +1,42 @@
+/* colors variables settings */
+
+:root {
+    --bgColor: #ffffff;
+    --primary: #7BA3DB;
+    --secondary: #4F545C;
+    --terciary: #5E7DA8;
+    --bgColorbody: rgb(31, 41, 55);
+    --navbar: #343a40 !important;
+}
+
+:root[data-theme='dark'] {
+	--bgColor: #1F2937 !important;
+    --primary: #7BA3DB;
+    --secondary: #C2CFE1;
+    --terciary: #86E1B3;
+    --bgColorbody: #232020;
+    --navbar: #000 !important;
+}
+
+/* colors variables using examples */
+
+body {
+  background: var(--bgColor);
+}
+
+h2 {
+	color: var(--primary);
+}
+
+.classNameExample {
+	background: var(--terciary);
+    border: 1px solid var(--secondary);
+}
+
+.navbar {
+    background-color: var(--navbar) !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
