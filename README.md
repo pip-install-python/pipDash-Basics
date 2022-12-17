@@ -9,6 +9,9 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=flask,py,react,css,discord)](https://discord.gg/VXW7cpsnJk)
 
+## Pip Hosted & Useful Servers
+- [pipinstallpython - Flask Demo](http://wwww.pipinstallpython.com)
+- [ukrainemapwar](https://pipinstallpython.pythonanywhere.com/Ukraine/)
 
 This is a base repo that offers a multi paged dash application boiler plate to start building dashboards from. I've Included some amazing packages that I've found useful in my development process:
 
@@ -27,6 +30,9 @@ or Download Zip Directly
 You should be all set! 👨🏽‍💻🎉
 
 <img width="100%" height='400px' src="https://media.discordapp.net/attachments/419291925322006528/1053594214027505684/Screen_Shot_2022-12-17_at_2.46.10_AM.png?width=1800&height=936" alt="Tutorial Thumbnail" />
+
+Interested in taking this app to the next level check out the organization Github:
+https://github.com/Pip-Install-Pirate
 
 ## Support our Work with Hosting on Pythonanywhere
 
@@ -71,6 +77,3 @@ You should be all set! 👨🏽‍💻🎉
 - [colorama](https://github.com/tartley/colorama)
 
 ------
-## Pip Hosted & Useful Servers
-- [pipinstallpython - Flask Demo](http://wwww.pipinstallpython.com)
-- [ukrainemapwar](https://pipinstallpython.pythonanywhere.com/Ukraine/)
